@@ -1,7 +1,8 @@
 // For format details, see https://aka.ms/devcontainer.json.
 {
 	"name": "Scala",
-	"image": "sbtscala/scala-sbt:eclipse-temurin-17.0.4_1.8.0_3.2.1",
+	// https://hub.docker.com/r/sbtscala/scala-sbt/tags?name=eclipse
+	"image": "sbtscala/scala-sbt:eclipse-temurin-17.0.13_11_1.10.7_3.6.2",
 
 	// Configure tool-specific properties.
 	"customizations": {
